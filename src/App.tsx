@@ -1,16 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import ChatBot from './Chatbot';
 
-function App() {
-	const [count, setCount] = useState(0)
+const APP = () => {
+
 
 	return (
-		<>
-			<div className='text-red-300'> this is red text</div>
-		</>
-	)
-}
+		<div>
+			<p>User input: User input goes here...?</p>
+			<ChatBot />
+		</div>
+	);
+};
 
-export default App
+export default APP;

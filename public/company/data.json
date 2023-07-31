@@ -1,0 +1,25 @@
+{
+  "conversations": [
+    {
+      "user_input": "Tell me about your products.",
+      "bot_response": "Sure! We have a wide range of products, including electronics, home appliances, and personal care items."
+    },
+    {
+      "user_input": "What are your popular electronics products?",
+      "bot_response": "Our popular electronics products include smartphones, laptops, and smartwatches."
+    },
+    {
+      "user_input": "How about home appliances?",
+      "bot_response": "We offer a variety of home appliances, such as refrigerators, washing machines, and microwaves."
+    },
+    {
+      "user_input": "Tell me more about your personal care items.",
+      "bot_response": "Our personal care items include electric shavers, hair dryers, and electric toothbrushes."
+    },
+    {
+      "user_input": "What are your shipping options?",
+      "bot_response": "We offer standard and express shipping options to most locations worldwide."
+    }
+  ]
+}
+
